@@ -15,7 +15,7 @@
     },
     "stable": {
 		"1.0": {
-			"current": "1.0.1",
+			"current": "1.0.2",
 			"announcement": "https://www.phpbb.com/community/viewtopic.php?f=456&t=2283446",
 			"eol": null,
 			"security": false
