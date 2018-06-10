@@ -11,7 +11,13 @@
             "announcement": "https://www.phpbb.com/community/viewtopic.php?f=456&t=2275361&p=14189571#p14189571",
             "eol": null,
             "security": false
-        }
+        },
+        "2.0": {
+            "current": "2.0.0",
+            "announcement": "https://www.phpbb.com/community/viewtopic.php?f=456&t=2275361&p=14189571#p14189571",
+            "eol": null,
+            "security": false
+        }       
 	},
     "unstable": {
         "0.2": {
