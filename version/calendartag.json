@@ -1,0 +1,10 @@
+{
+	"unstable": {
+		"0.1": {
+			"current": "0.1.0",
+			"announcement": "",
+			"eol": null,
+			"security": false
+		}
+	}
+}
