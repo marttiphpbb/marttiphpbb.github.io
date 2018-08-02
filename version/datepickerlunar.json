@@ -5,6 +5,12 @@
 			"announcement": "",
 			"eol": null,
 			"security": false
+		},
+		"0.2": {
+			"current": "0.2.0",
+			"announcement": "",
+			"eol": null,
+			"security": false
 		}
 	}
 }
