@@ -2,7 +2,13 @@
 	"unstable": {
 		"0.1": {
 			"current": "0.1.0",
-			"announcement": "",
+			"announcement": "https://www.phpbb.com/community/viewtopic.php?f=456&t=2487151",
+			"eol": null,
+			"security": false
+		},
+		"0.2": {
+			"current": "0.2.0",
+			"announcement": "https://www.phpbb.com/community/viewtopic.php?f=456&t=2487151",
 			"eol": null,
 			"security": false
 		}
