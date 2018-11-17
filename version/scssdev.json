@@ -5,6 +5,12 @@
 			"announcement": "https://www.phpbb.com/community/viewtopic.php?f=456&t=2492276",
 			"eol": null,
 			"security": false
+		},
+		"0.2": {
+			"current": "0.2.0",
+			"announcement": "https://www.phpbb.com/community/viewtopic.php?f=456&t=2492276",
+			"eol": null,
+			"security": false
 		}
 	}
 }
