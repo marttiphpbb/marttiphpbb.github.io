@@ -29,6 +29,12 @@
 			"announcement": "https://www.phpbb.com/community/viewtopic.php?f=456&t=2487146",
 			"eol": null,
 			"security": false
+		},
+		"0.6": {
+			"current": "0.6.0",
+			"announcement": "https://www.phpbb.com/community/viewtopic.php?f=456&t=2487146",
+			"eol": null,
+			"security": false
 		}
 	}
 }
